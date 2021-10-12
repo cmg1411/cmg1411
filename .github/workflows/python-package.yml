@@ -34,7 +34,7 @@ jobs:
         python -m pip install feedparser
     - name: update Readme
       run: |
-        BlogPostReader.py
+        python BlogPostReader.py
     - name: Commit
       run: |
         git add .
