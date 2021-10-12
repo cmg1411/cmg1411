@@ -15,6 +15,12 @@ til_md = """
 ##  ✍️ TIL
 """
 
+github_stat = """
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmg1411&theme=synthwave&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+"""
+
 main_cnt = 0
 til_cnt = 0
 
@@ -31,5 +37,5 @@ for post in main_page['entries']:
         break
 
 f = open("README.md", mode="w", encoding="utf-8")
-f.write(main_md + til_md)
+f.write(main_md + til_md + github_stat)
 f.close()
