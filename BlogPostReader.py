@@ -10,14 +10,14 @@ main_md = """
 """
 
 til_md = """
-
----
+<br>
+<br>
 ##  ✍️ TIL
 """
 
 github_stat = """
-
-
+<br>
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmg1411&theme=synthwave&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 """
 
