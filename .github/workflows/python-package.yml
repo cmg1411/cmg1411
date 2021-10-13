@@ -37,6 +37,7 @@ jobs:
         python BlogPostReader.py
     - name: Commit
       run: |
+        git pull origin main
         git add .
         git config --local user.email "action@gihtub.com"
         git config --local user.name "GitHub Action"
