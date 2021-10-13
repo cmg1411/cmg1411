@@ -5,7 +5,7 @@
 <br>
 <br>
 ##  ✍️ TIL
-[TIL) asd](https://alkhwa-113.tistory.com/entry/asdf) / 2021-10-12</br>
+[TIL](https://alkhwa-113.tistory.com/entry/TIL) / 2021-10-13</br>[TIL) asd](https://alkhwa-113.tistory.com/entry/asdf) / 2021-10-12</br>
 <br>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmg1411&theme=synthwave&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
