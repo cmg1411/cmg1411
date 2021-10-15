@@ -39,7 +39,7 @@ jobs:
       run: |
         git pull origin main
         git add .
-        git config --local user.email "action@gihtub.com"
+        git config --local user.email "cmg1411@naver.com"
         git config --local user.name "GitHub Action"
         git commit -m "Daily Readme Update"
         git push origin main
