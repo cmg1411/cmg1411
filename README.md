@@ -1,7 +1,7 @@
 
 # [블로그](https://alkhwa-113.tistory.com/)
 ##  🍽 최신글
-[kotlin 마스킹](https://alkhwa-113.tistory.com/entry/kotlin-%EB%A7%88%EC%8A%A4%ED%82%B9) / 2021-11-09</br>[spring interceptor](https://alkhwa-113.tistory.com/entry/spring-interceptor) / 2021-10-30</br>[git rebase -i](https://alkhwa-113.tistory.com/entry/git-rebase-i) / 2021-10-06</br>[rebase, pull --rebase](https://alkhwa-113.tistory.com/entry/rebase-pull-rebase) / 2021-10-06</br>[squash 머지 한 브랜치에서 계속 작업할 경우](https://alkhwa-113.tistory.com/entry/squash-%EB%A8%B8%EC%A7%80-%ED%95%9C-%EB%B8%8C%EB%9E%9C%EC%B9%98%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%9E%91%EC%97%85%ED%95%A0-%EA%B2%BD%EC%9A%B0) / 2021-10-06</br>
+[@Async 예외처리](https://alkhwa-113.tistory.com/entry/Async-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC) / 2022-03-02</br>[kotlin 마스킹](https://alkhwa-113.tistory.com/entry/kotlin-%EB%A7%88%EC%8A%A4%ED%82%B9) / 2021-11-09</br>[spring interceptor](https://alkhwa-113.tistory.com/entry/spring-interceptor) / 2021-10-30</br>[git rebase -i](https://alkhwa-113.tistory.com/entry/git-rebase-i) / 2021-10-06</br>[rebase, pull --rebase](https://alkhwa-113.tistory.com/entry/rebase-pull-rebase) / 2021-10-06</br>
 <br>
 <br>
 ##  ✍️ TIL
